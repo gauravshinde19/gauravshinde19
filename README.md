@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gauravshinde19102@gmail.com**
 
-- ⚡ Fun fact **Gets better every day**
+- ⚡ Fun fact **gets improve every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
