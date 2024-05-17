@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravshinde19&label=Profile%20views&color=0e75b6&style=flat" alt="gauravshinde19" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C, C++, Java**
 
